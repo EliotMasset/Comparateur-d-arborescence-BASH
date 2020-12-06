@@ -1,0 +1,48 @@
+Liste des fichiers de l'arborescence 1 qui n'ont aucunes correspondances dans l'arborescence 2 :
+------------------------------------------------------------------------------------------
+
+
+Liste des fichiers de l'arborescence 1 et de leurs correspondances dans l'arborescence 2 :
+------------------------------------------------------------------------------------------
+
+
+Liste des fichiers de l'arborescence 2 qui n'ont aucunes correspondances dans l'arborescence 1 :
+------------------------------------------------------------------------------------------
+
+
+Liste des fichiers de l'arborescence 2 et de leurs correspondances dans l'arborescence 1 :
+------------------------------------------------------------------------------------------
+
+
+Liste des dossiers de l'arborescence 1 qui n'ont aucunes correspondances dans l'arborescence 2 :
+------------------------------------------------------------------------------------------
+
+
+Liste des dossiers de l'arborescence 1 et de leurs correspondances dans l'arborescence 2 :
+------------------------------------------------------------------------------------------
+
+
+
+Le dossier E a comme corespondance : 
+
+ /E
+
+Pour information, il se situe à l'adresse:  /E
+
+------------------------------------------------------------------------------------------------------
+Liste des dossiers de l'arborescence 2 qui n'ont aucunes correspondances dans l'arborescence 1 :
+------------------------------------------------------------------------------------------
+
+
+Liste des dossiers de l'arborescence 2 et de leurs correspondances dans l'arborescence 1 :
+------------------------------------------------------------------------------------------
+
+
+
+Le dossier E a comme corespondance : 
+
+ /E
+
+Pour information, il se situe à l'adresse:  /E
+
+------------------------------------------------------------------------------------------------------
